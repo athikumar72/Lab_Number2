@@ -82,7 +82,7 @@ namespace Lab_Number2
 
                 else
                 {
-                    Console.WriteLine("You run away from game");
+                    Console.WriteLine("You run away from game, Have a nice day ");
                 }
             }
             else
